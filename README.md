@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# leetcode
 
 This repository contains my solutions to LeetCode problems, organized by difficulty and by data structure/algorithm category.
 
